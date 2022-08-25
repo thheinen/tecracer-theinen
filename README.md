@@ -10,6 +10,7 @@ Awards and titles to brag about:
 - [Chef Automate for Good Winner 2021](https://devpost.com/software/generic-rest-targets-for-chef-e-g-for-netapp-ontap)
 - [AWS Ambassador](https://aws.amazon.com/partners/ambassadors/?cards-body.sort-by=item.additionalFields.ambassadorName&cards-body.sort-order=asc&awsf.apn-ambassadors-location=*all&awsm.page-cards-body=1&cards-body.q=tecracer&cards-body.q_operator=AND)
 - AWS Container Blackbelt
+- AWS Community Builder 2022 (Storage)
 
 Fancy GitHub Stats:
 
